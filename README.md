@@ -8,3 +8,12 @@ To adapt code flexibly to specific imaging experiments it exists in multiple mod
 date of imaging/date of culture/condition/cell number
 
 Code can be flexibly adapted to your, microscope type, experiments and habit of saving files. 
+
+For more information check out our publication:
+
+Automated Image Analysis Reveals Different Localization of Synaptic Gephyrin C4 Splice Variants
+
+eNeuro 21 December 2022, 10 (1) ENEURO.0102-22.2022; DOI: https://doi.org/10.1523/ENEURO.0102-22.2022
+
+
+
