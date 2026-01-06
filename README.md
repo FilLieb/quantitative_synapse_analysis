@@ -15,12 +15,11 @@ Automated Image Analysis Reveals Different Localization of Synaptic Gephyrin C4 
 
 eNeuro 21 December 2022, 10 (1) ENEURO.0102-22.2022; https://doi.org/10.1523/ENEURO.0102-22.2022
 
+Phosphoinositide- and Collybistin-Dependent Synaptic Clustering of Gephyrin
+
+Journal of Neurochemistry 169, no. 8: e70169; https://doi.org/10.1111/jnc.70169.
+
 
 Gephyrin filaments represent the molecular basis of inhibitory postsynaptic densities
 
 Nat Commun 16, 8293 (2025); https://doi.org/10.1038/s41467-025-63748-w
-
-
-Phosphoinositide- and Collybistin-Dependent Synaptic Clustering of Gephyrin
-
-Journal of Neurochemistry 169, no. 8: e70169; https://doi.org/10.1111/jnc.70169.
